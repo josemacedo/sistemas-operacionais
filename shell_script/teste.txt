@@ -1,5 +1,0 @@
-alo
-mundo
-shell
-script
-
